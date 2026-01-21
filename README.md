@@ -1,8 +1,5 @@
 ## Hi there 👋
-
-
-**axell0074/axell0074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+MY NAME IS AXELL
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Test
